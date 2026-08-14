@@ -1,4 +1,4 @@
-Octotoon's Terms and Conditions
+
 OCTOTOON TERMS AND CONDITIONS
 
 Last Updated: August 14, 2026
