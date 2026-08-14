@@ -231,13 +231,7 @@ When changes are made, we will update the "Last Updated" date at the top of this
 Continued use of Octotoon after changes means you accept the updated Terms.
 
 ---
-
-18. Governing Law
-
-These Terms are governed by the laws of your country of residence, unless otherwise required by applicable law.
-
----
-19.Bug Reports, Feedback, and Support
+18.Bug Reports, Feedback, and Support
 
 Octotoon provides a Bug/Feedback option or support email address.
 
@@ -288,6 +282,10 @@ You are providing it voluntarily
 You are responsible for the content you submit
 
 We may use general feedback to improve Octotoon without obligation to credit or compensate you.
+
+19. Governing Law
+
+These Terms are governed by the laws of your country of residence, unless otherwise required by applicable law.
 
 20. Contact Us
 
