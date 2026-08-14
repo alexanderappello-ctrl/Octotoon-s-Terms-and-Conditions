@@ -283,11 +283,24 @@ You are responsible for the content you submit
 
 We may use general feedback to improve Octotoon without obligation to credit or compensate you.
 
-19. Governing Law
+
+19. Consumer Rights
+
+Nothing in these Terms is intended to eliminate or restrict mandatory consumer-protection rights or other legal rights that cannot lawfully be waived.
+
+Users in jurisdictions with mandatory consumer protections retain those rights regardless of anything in these Terms.
+
+20. Severability
+If any provision of these Terms is determined to be invalid, unlawful, or unenforceable, the remaining provisions will continue in effect to the extent permitted by law.
+
+21. Entire Agreement
+These Terms, together with the Octotoon Privacy Policy and any additional terms or safety warnings expressly presented within the App, constitute the agreement between you and us regarding your use of Octotoon.
+
+22. Governing Law
 
 These Terms are governed by the laws of your country of residence, unless otherwise required by applicable law.
 
-20. Contact Us
+23. Contact Us
 
 If you have questions about these Terms, you may contact us at:
 
@@ -296,7 +309,7 @@ Octotoon Support
 
 ---
 
-21. Final Statement
+24. Final Statement
 
 Octotoon is designed to be a creative-first application that prioritizes user control, local content ownership, and minimal data collection.
 
