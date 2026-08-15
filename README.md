@@ -11,7 +11,7 @@ These Terms and Conditions ("Terms") govern your access to and use of the Octoto
 
 By downloading, installing, or using Octotoon, you agree to be bound by these Terms. If you do not agree, you must not use the App.
 
-Octotoon is designed to function as a creative tool that allows users to generate and store content locally on their own devices, with optional cloud or third-party services only where explicitly stated.
+Octotoon is designed to function as a creative tool that allows users to generate and store content locally on their own devices.
 
 ---
 
@@ -25,7 +25,7 @@ By using Octotoon, you represent and warrant that you meet this requirement.
 
 3. License to Use the App
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to download and use Octotoon for personal, non-commercial purposes, subject to these Terms.
+We grant you a limited, non-exclusive, non-transferable, revocable license to download and use Octotoon for personal and commercial purposes, subject to these Terms.
 
 You may not:
 
